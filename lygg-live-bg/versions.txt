@@ -1,3 +1,4 @@
 # 版本	sha256	是否重启	说明（update.sh 按顺序安装比本机新的版本）
 202611071457	a4c31df29796adf2d71e5812b16e93d107395bc846e0b9805cd4afbf7aa8bb9b	yes	首个更新包：搭建更新机制（update.sh / restart.sh），后台代码与 M3 相同
 202611071639	740b83d78ee0067e05e37052acff04af4eb06c8da69fb3383bef08c994bb8797	yes	直播间：推流地址30天/重新生成/推流开关、二维码、观众管理、地址有效期列、复制和二维码按钮分开（必须先装好本次的 lygg-server.tar.gz 大包）
+202611071730	22ae3173b7590ea7250ccba858ad2df4a1cb6a4eed8fb756475c4b1f8b093ff7	yes	直播间头像：新增/修改直播间可上传头像（png/jpg/jpeg，≤2MB），列表显示头像；上传失败时写错误日志
