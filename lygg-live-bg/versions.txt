@@ -1,0 +1,2 @@
+# 版本	sha256	是否重启	说明（update.sh 按顺序安装比本机新的版本）
+202611071457	a4c31df29796adf2d71e5812b16e93d107395bc846e0b9805cd4afbf7aa8bb9b	yes	首个更新包：搭建更新机制（update.sh / restart.sh），后台代码与 M3 相同
