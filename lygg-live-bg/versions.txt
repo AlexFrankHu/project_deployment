@@ -3,3 +3,4 @@
 202611071639	740b83d78ee0067e05e37052acff04af4eb06c8da69fb3383bef08c994bb8797	yes	直播间：推流地址30天/重新生成/推流开关、二维码、观众管理、地址有效期列、复制和二维码按钮分开（必须先装好本次的 lygg-server.tar.gz 大包）
 202611071730	22ae3173b7590ea7250ccba858ad2df4a1cb6a4eed8fb756475c4b1f8b093ff7	yes	直播间头像：新增/修改直播间可上传头像（png/jpg/jpeg，≤2MB），列表显示头像；上传失败时写错误日志
 202611071806	e8fe4681217fbc8f8f46092e8b58f18d93f6941d47514b02e8ede89dcb0ba608	yes	水军：观众管理里批量创建（每次≤100）、换昵称/换头像/删除；素材从 /home/ubuntu/robot_info 读取
+202611071814	a7b9034109ca4ea7ca286e15f1bf4cdda2b6ce322d9ddbe6dc7c070e4e9d3921	no	观众管理：操作栏不换行
